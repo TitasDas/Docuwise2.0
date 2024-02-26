@@ -2,7 +2,7 @@ import re
 from io import BytesIO
 from typing import Tuple, List
 from langchain.docstore.document import Document
-from langchain_openai import OpenAIEmbeddings
+from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.vectorstores.faiss import FAISS
 from pypdf import PdfReader
