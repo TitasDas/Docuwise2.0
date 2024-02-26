@@ -20,7 +20,7 @@ While Docuwise 2.0 is designed to be a powerful tool for document analysis, ther
 
 - **Content Limitations**: Please note that our system may not accurately read tables, diagrams, figures, or similar content within documents. We are continually working to improve our capabilities and appreciate your understanding.
 
-- **Data Privacy and Security**: We prioritize your privacy and data security. All interactions with our platform are locally executed on your device, and no data is saved or recorded by our system. Once you close the app, all locally created instances and data are securely deleted.
+- **Data Privacy and Security**: Your privacy and data security are of utmost importance to us. While the app is hosted on a cloud server, we take significant measures to ensure that your data is handled securely. Uploaded documents are processed in real-time, and we do not store them or any extracted information longer than necessary to provide answers to your queries. We design our data handling practices to respect user privacy and comply with data protection regulations. However, users should be aware that data is transmitted over the internet to our server for processing. We encourage users to review our privacy policy for detailed information on how data is managed and protected.
 
 Thank you for choosing Docuwise 2.0. We are committed to providing you with a reliable and efficient service for all your document analysis needs.
 
