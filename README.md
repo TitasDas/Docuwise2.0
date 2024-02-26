@@ -1,16 +1,16 @@
 # Docuwise 2.0
 
-Welcome to [Docuwise 2.0](https://docuwise.streamlit.app/), an advanced document analysis platform designed to help you extract information from PDF documents seamlessly. Our system utilizes the latest in AI technology to provide answers to your queries directly from the content of your uploaded documents.
+Welcome to [Docuwise 2.0](https://docuwise.streamlit.app/), an advanced document analysis platform designed to help you extract information from PDF documents seamlessly. Our system utilizes a Retrieval Augmented Generated system to provide answers to your queries directly from the content of your uploaded documents.
 
-## Setup Instructions
+## How to Use Docuwise 2.0
 
-To begin using Docuwise 2.0, please follow these steps:
+Follow these steps to start extracting information from your PDF documents:
 
-1. **API Key Configuration**: Start by entering your `OPENAI_API_KEY` in the designated field. This key is essential for processing your requests and enabling the AI functionalities of our platform.
+1. **API Key Configuration**: Enter your `OPENAI_API_KEY` in the designated field. This key enables the AI functionalities of our platform and is essential for processing your requests.
 
-2. **Document Upload**: Use the browse button to upload PDF documents from which you wish to extract information. Our platform supports a wide range of PDFs, making it easy for you to get the answers you need.
+2. **Document Upload**: Use the browse button to upload the PDF documents from which you wish to extract information. Our platform supports a wide range of PDFs, facilitating easy access to the answers you need.
 
-3. **Query Submission**: Once your documents are uploaded, simply type in any question related to the content of your documents. Our AI will analyze the text and provide you with the relevant answers.
+3. **Submit Queries**: After uploading your documents, type any question related to their content. Our AI analyzes the text and provides you with relevant answers.
 
 ### Important Considerations
 
