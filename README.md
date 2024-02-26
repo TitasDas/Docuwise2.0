@@ -1,5 +1,6 @@
 # Docuwise2.0
 
+<<<<<<< HEAD
 ## Setup Instructions
 
 1. Set the `OPENAI_API_KEY` Environment Variable:
@@ -9,3 +10,10 @@
 
 - On Windows:
 > setx OPENAI_API_KEY your_key
+=======
+
+
+
+
+    
+>>>>>>> ad9e064 (Initial full update of the entire streamlit app for RAG)
