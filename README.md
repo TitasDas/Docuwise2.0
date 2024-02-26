@@ -9,10 +9,5 @@
 
 - On Windows:
 > setx OPENAI_API_KEY your_key
-=======
 
 
-
-
-    
->>>>>>> ad9e064 (Initial full update of the entire streamlit app for RAG)
