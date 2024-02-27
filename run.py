@@ -1,6 +1,3 @@
-# Add the open_ai API key on line 16 and 17 before running
-# This is the streamlit app, to run this navigate to the path where this script is after cloning and
-# use the following command - #streamlit run run.py
 import openai
 import streamlit as st
 import os
